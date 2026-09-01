@@ -61,3 +61,19 @@ https://commons.wikimedia.org/wiki/File:Tui_song_-_Trelissick_Park_-8_March 2021
 
 License:
 CC BY-SA 4.0
+
+...
+
+## Northern mockingbird (Mimus polyglottos)
+
+Filename:
+mimus_polyglottos_call.mp3
+
+Author:
+David Illig
+
+Source:
+https://commons.wikimedia.org/wiki/File:Mimus_polyglottos_Northern_Mockingbird.ogg
+
+License:
+CC BY-SA 3.0

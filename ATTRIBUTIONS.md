@@ -77,3 +77,20 @@ https://commons.wikimedia.org/wiki/File:Mimus_polyglottos_Northern_Mockingbird.o
 
 License:
 CC BY-SA 3.0
+
+
+...
+
+## Laughing kookaburra (Dacelo novaeguineae)
+
+Filename:
+dacelo_novaeguineae_call.mp3
+
+Author:
+Wilfredo Cox
+
+Source:
+https://commons.wikimedia.org/wiki/File:Cucaburra.ogg
+
+License:
+CC BY-SA 3.0
